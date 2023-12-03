@@ -120,7 +120,7 @@ function StartBinoculars()
     end
 end
 
-unction StartRayCasting()
+function StartRayCasting()
     if enableFunctions then
         Citizen.CreateThread(function()
             while true do
