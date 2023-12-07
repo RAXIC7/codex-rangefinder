@@ -38,3 +38,8 @@ Config.textLocation = {0.5, 0.02}          -- Text location (X, Y)
 ## Commands
 /startbinoculars: Activate binoculars.
 /stopbinoculars: Deactivate binoculars.
+
+
+### Credits
+Some binocular code comes from 
+https://forum.cfx.re/t/release-binoculars/84325
